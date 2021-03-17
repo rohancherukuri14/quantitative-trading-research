@@ -2,8 +2,8 @@ import alpaca_backtrader_api
 import backtrader as bt
 from datetime import datetime
 
-ALPACA_API_KEY = 'AKSV8IE6PIEJCC0PO5C2'
-ALPACA_SECRET_KEY = 'RxXvwZ6bNY9UMO9a0FBaFqY8Jhc0rtrIRgBKZvM7'
+ALPACA_API_KEY = ''
+ALPACA_SECRET_KEY = ''
 ALPACA_PAPER = True
 
 class HeikenAshi(bt.Strategy):
